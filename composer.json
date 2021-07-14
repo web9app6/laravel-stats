@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-stats",
+    "name": "tomcrofty/laravel-stats",
     "description": "Track application stat changes over time",
     "keywords": [
         "spatie",
         "laravel-stats"
     ],
-    "homepage": "https://github.com/spatie/laravel-stats",
+    "homepage": "https://github.com/tomcrofty/laravel-stats",
     "license": "MIT",
     "authors": [
         {
